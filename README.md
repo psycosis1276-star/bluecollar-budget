@@ -20,7 +20,7 @@ No fancy spreadsheets. No complicated menus. Just straightforward numbers so you
 3. Keep it simple — that's the whole point
 
 ### Why I Built This
-Most budget apps feel like they were made by accountants for accountants. This one was made by a millwright for regular working guys who are tired as hell at the end of the day.
+Most budget apps feel like they were made by accountants for accountants. This one was made by a **papermaker** for regular working guys who are tired as hell at the end of the day.
 
 ### Feedback Welcome
 If you're a blue collar worker and you try this, let me know what should be added or changed. This is very much a work in progress.
